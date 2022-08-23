@@ -81,13 +81,13 @@ Slides
 
 Leituras obrigatórias
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cunningham 2021, cap. 4](02-causalidade/cunningham-2021-cap4.pdf) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cunningham 2021, cap. 4](/02-causalidade/cunningham-2021-cap4.pdf) 
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, cap. 3](02-causalidade/kellstedt-whitten-2018-cap3.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, cap. 3](/02-causalidade/kellstedt-whitten-2018-cap3.pdf)
 
 Leitura optativa
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Dowd e Town 2002](02-causalidade/dowd-town-2002.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Dowd e Town 2002](/02-causalidade/dowd-town-2002.pdf)
  
 ---
   
