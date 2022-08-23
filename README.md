@@ -41,6 +41,7 @@ Horário: segundas-feiras, 8h30-12h30
 | 10   | 21/11 | Regressão linear, parte 2                            | Não           | Sim                   |
 | -    | 28/11 | **NÃO HAVERÁ AULA**                                  | -             | -                     |
 | 11   | 05/12 | Regressão linear no R                                | Sim           | Sim                   |
+| -    | 16/12 | **PRAZO PARA ENTREGA DO TRABALHO FINAL**             | -             | Sim                   |
  
 ---
   
