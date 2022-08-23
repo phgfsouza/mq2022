@@ -2,6 +2,13 @@
 
 <br> 
 
+Repositório central da turma de Métodos Quantitativos de 2022 do MPPPD/Ipea. 
+
+Todas as atividades (listas de exercícios, trabalhos, provas etc) serão postadas somente na página da disciplina no [Google Classroom](http://classroom.google.com), como explicado no [programa](programa-completo.pdf). 
+
+O plano de aulas será sempre atualizado com pelo menos duas semanas de antecedência.
+
+<br>
 
 ## Informações gerais
 
@@ -50,16 +57,62 @@ Horário: segundas-feiras, 8h30-12h30
  
 Slides
 
-Leitura obrigatória:
+Leitura obrigatória
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Babbie 2021, caps. 1 e 4](01-metodologia/babbie-2021-cap1e4.pdf)
 
 Leituras optativas
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, p. 1-42](kellstedt-whitten-2018-p1a42.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, p. 1-42](01-metodologia/kellstedt-whitten-2018-p1a42.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [King, Keohane e Verba 1994, cap. 1](king-keohane-verba-1994-cap1)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [King, Keohane e Verba 1994, cap. 1](01-metodologia/king-keohane-verba-1994-cap1.pdf)
  
 ---
+  
+</details>
+
+<details><summary>02. Introdução à causalidade (19/set) </summary>
+
+---
+ 
+Slides
+
+Leituras obrigatórias
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cunningham 2021, cap. 4](02-causalidade/cunningham-2021-cap4.pdf)
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kellstedt e Whitten 2018, cap. 3](02-causalidade/kellstedt-whitten-2018-cap3.pdf)
+
+Leitura optativa
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Dowd e Town 2002](02-causalidade/dowd-town-2002.pdf)
+ 
+---
+  
+</details>
+
+<details><summary>03. Manipulação de dados no R (26/set) </summary>
+
+---
+ 
+Slides
+
+Scripts
+ 
+Bases de dados
+
+Leitura obrigatória
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Curso-R, Ciências de Dados no R, cap. 1 a 6](https://livro.curso-r.com/index.html)
+ 
+Leituras optativas
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Roger Peng, R Programming for Data Science, caps. 3 a 6](https://bookdown.org/rdpeng/rprogdatascience/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Rafael Irizarry, Introduction to Data Science, caps. 1 a 6](https://rafalab.github.io/dsbook/)
+ 
+ 
+---
+ 
   
 </details>
