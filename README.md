@@ -8,6 +8,8 @@ Todas as atividades (listas de exercícios, trabalhos, provas etc) serão postad
 
 O plano de aulas será sempre atualizado com pelo menos duas semanas de antecedência.
 
+Caso você tenha problemas em carregar alguns dos links para o material de aula, por favor veja diretamente nas pastas acima. 
+
 <br>
 
 ## Informações gerais
@@ -79,7 +81,7 @@ Slides
 
 Leituras obrigatórias
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cunningham 2021, cap. 4](02-causalidade/cunningham-2021-cap4.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cunningham 2021, cap. 4](02-causalidade/cunningham-2021-cap4.pdf) 
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, cap. 3](02-causalidade/kellstedt-whitten-2018-cap3.pdf)
 
