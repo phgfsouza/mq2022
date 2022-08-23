@@ -30,12 +30,12 @@ Horário: segundas-feiras, 8h30-12h30
 | 2    | 19/09 | Introdução à causalidade                             | Não           | Sim                   |
 | 3    | 26/09 | Manipulação de dados no R                            | Sim           | Sim                   |
 | 4    | 03/10 | Estatísticas descritivas no R                        | Sim           | Sim                   |
-| 5    | 10/10 | Fundamentos de probabilidade                         | Não           | Sim                   |
-| 6    | 17/10 | Inferência estatística                               | Não           | Sim                   |
+| 5    | 10/10 | Fundamentos de probabilidade                         | Não           | Não                   |
+| 6    | 17/10 | Inferência estatística                               | Não           | Não                   |
 | 7    | 24/10 | Testes de hipóteses                                  | Não           | Sim                   |
 | -    | 31/10 | **NÃO HAVERÁ AULA**                                  | -             | -                     |
 | 8    | 07/11 | Probabilidade, inferência e testes de hipóteses no R | Sim           | Sim                   |
-| 9    | 14/11 | Regressao linear, parte 1                            | Não           | Sim                   |
+| 9    | 14/11 | Regressao linear, parte 1                            | Não           | Não                   |
 | 10   | 21/11 | Regressão linear, parte 2                            | Não           | Sim                   |
 | -    | 28/11 | **NÃO HAVERÁ AULA**                                  | -             | -                     |
 | 11   | 05/12 | Regressão linear no R                                | Sim           | Sim                   |
@@ -110,6 +110,35 @@ Leituras optativas
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Roger Peng, R Programming for Data Science, caps. 3 a 6](https://bookdown.org/rdpeng/rprogdatascience/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Rafael Irizarry, Introduction to Data Science, caps. 1 a 6](https://rafalab.github.io/dsbook/)
+ 
+ 
+---
+ 
+  
+</details>
+
+
+<details><summary>04. Estatísticas descritivas no R (03/out) </summary>
+
+---
+ 
+Slides
+
+Scripts
+ 
+Bases de dados
+
+Leitura obrigatória
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Bussab e Morettin 2010 caps. 3 e 4](/04-estatistica-descritiva/bussab-morettin-2010-cap3e4.pdf)
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Huntington-Klein 2022 caps. 3 e 4](/04-estatistica-descritiva/huntington-klein-2022-cap3e4.pdf)
+ 
+Leituras optativas
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Agresti 2018 cap. 3](/04-estatistica-descritiva/agresti-2018-cap3.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018 cap. 6]/04-estatistica-descritiva/kellstedt-whitten-2018-cap6.pdf)
  
  
 ---
