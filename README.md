@@ -81,7 +81,7 @@ Leituras obrigatórias
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cunningham 2021, cap. 4](02-causalidade/cunningham-2021-cap4.pdf)
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kellstedt e Whitten 2018, cap. 3](02-causalidade/kellstedt-whitten-2018-cap3.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, cap. 3](02-causalidade/kellstedt-whitten-2018-cap3.pdf)
 
 Leitura optativa
 
@@ -138,7 +138,7 @@ Leituras optativas
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Agresti 2018 cap. 3](/04-estatistica-descritiva/agresti-2018-cap3.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018 cap. 6]/04-estatistica-descritiva/kellstedt-whitten-2018-cap6.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018 cap. 6](/04-estatistica-descritiva/kellstedt-whitten-2018-cap6.pdf)
  
  
 ---
