@@ -6,9 +6,7 @@ Repositório central da turma de Métodos Quantitativos de 2022 do MPPPD/Ipea.
 
 Todas as atividades (listas de exercícios, trabalhos, provas etc) serão postadas somente na página da disciplina no [Google Classroom](http://classroom.google.com), como explicado no [programa](programa-completo.pdf). 
 
-O plano de aulas será sempre atualizado com pelo menos duas semanas de antecedência.
-
-Caso você tenha problemas em carregar alguns dos links para o material de aula, por favor veja diretamente nas pastas acima. 
+O plano de aulas será sempre atualizado com pelo menos duas semanas de antecedência. Caso você tenha problemas em carregar alguns dos links para o material de aula, por favor veja diretamente nas pastas acima e faça o download dos arquivos.
 
 <br>
 
