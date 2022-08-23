@@ -1,2 +1,5 @@
-# mq2022
-Mestrado PPD/Ipea, Métodos Quantitativos, 2022
+# Mestrado Profissional em Políticas Públicas e Desenvolvimento, Ipea
+
+## Métodos Quantitativos, 2022
+
+
