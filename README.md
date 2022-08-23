@@ -33,11 +33,11 @@ Horário: segundas-feiras, 8h30-12h30
 | 5    | 10/10 | Fundamentos de probabilidade                         | Não           | Não                   |
 | 6    | 17/10 | Inferência estatística                               | Não           | Não                   |
 | 7    | 24/10 | Testes de hipóteses                                  | Não           | Sim                   |
-| -    | 31/10 | **NÃO HAVERÁ AULA**                                  | -             | -                     |
+| -    | 31/10 | **NÃO HAVERÁ AULA**                                  | -             | Não                   |
 | 8    | 07/11 | Probabilidade, inferência e testes de hipóteses no R | Sim           | Sim                   |
 | 9    | 14/11 | Regressao linear, parte 1                            | Não           | Não                   |
 | 10   | 21/11 | Regressão linear, parte 2                            | Não           | Sim                   |
-| -    | 28/11 | **NÃO HAVERÁ AULA**                                  | -             | -                     |
+| -    | 28/11 | **NÃO HAVERÁ AULA**                                  | -             | Não                   |
 | 11   | 05/12 | Regressão linear no R                                | Sim           | Sim                   |
 | -    | 16/12 | **PRAZO PARA ENTREGA DO TRABALHO FINAL**             | -             | Sim                   |
  
