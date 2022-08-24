@@ -106,7 +106,7 @@ Leitura obrigatória
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Curso-R, Ciências de Dados no R, caps. 1 a 6](https://livro.curso-r.com/index.html)
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [IBPAD, Ciência de Dados em R - Introdução caps. 1 a 5](https://livro.curso-r.com/index.html](https://cdr.ibpad.com.br/index.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [IBPAD, Ciência de Dados em R - Introdução caps. 1 a 5](https://cdr.ibpad.com.br/index.html)
  
 Leituras optativas
 
