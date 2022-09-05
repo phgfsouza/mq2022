@@ -57,7 +57,9 @@ Horário: segundas-feiras, 8h30-12h30
 ---
  
 Slides
-
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em breve
+ 
 Leitura obrigatória
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Babbie 2021, cap. 4](01-metodologia/babbie-2021-cap4.pdf)
@@ -71,6 +73,7 @@ Leituras optativas
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [King, Keohane e Verba 1994, cap. 1](01-metodologia/king-keohane-verba-1994-cap1.pdf)
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ragin e Amoroso 2011, caps. 1 e 2](01-metodologia/ragin-amoroso-2011-cap1e2.pdf)
+ 
 ---
   
 </details>
@@ -80,6 +83,8 @@ Leituras optativas
 ---
  
 Slides
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em breve
 
 Leituras obrigatórias
 
@@ -102,12 +107,18 @@ Leitura optativa
 ---
  
 Slides
-
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em breve
+ 
 Scripts
  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em breve
+ 
 Bases de dados
-
-Leitura obrigatória
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em breve
+ 
+Leituras obrigatórias
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Curso-R, Ciências de Dados no R, caps. 1 a 6](https://livro.curso-r.com/index.html)
  
@@ -131,12 +142,19 @@ Leituras optativas
 ---
  
 Slides
+ 
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em breve
 
 Scripts
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em breve
  
 Bases de dados
-
-Leitura obrigatória
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em breve
+ 
+Leituras obrigatórias
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Bussab e Morettin 2010 caps. 3 e 4](/04-estatistica-descritiva/bussab-morettin-2010-cap3e4.pdf)
  
