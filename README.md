@@ -67,7 +67,8 @@ Leituras optativas
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, p. 1-42](01-metodologia/kellstedt-whitten-2018-p1a42.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [King, Keohane e Verba 1994, cap. 1](01-metodologia/king-keohane-verba-1994-cap1.pdf)
- 
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ragin e Amoroso 2011, caps. 1 e 2](01-metodologia/ragin-amoroso-2011-cap1e2.pdf)
 ---
   
 </details>
@@ -83,6 +84,8 @@ Leituras obrigatórias
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cunningham 2021, cap. 4](/02-causalidade/cunningham-2021-cap4.pdf) 
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, cap. 3](/02-causalidade/kellstedt-whitten-2018-cap3.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, cap. 4](/02-causalidade/kellstedt-whitten-2018-cap4.pdf)
 
 Leitura optativa
 
