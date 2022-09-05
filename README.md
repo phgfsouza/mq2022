@@ -60,10 +60,12 @@ Slides
 
 Leitura obrigatória
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Babbie 2021, caps. 1 e 4](01-metodologia/babbie-2021-cap1e4.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Babbie 2021, cap. 4](01-metodologia/babbie-2021-cap4.pdf)
 
 Leituras optativas
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Babbie 2021, cap. 1](01-metodologia/babbie-2021-cap1.pdf)
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, p. 1-42](01-metodologia/kellstedt-whitten-2018-p1a42.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [King, Keohane e Verba 1994, cap. 1](01-metodologia/king-keohane-verba-1994-cap1.pdf)
