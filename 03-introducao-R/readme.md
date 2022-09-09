@@ -9,8 +9,18 @@
 
 &nbsp; &nbsp; &nbsp; ```./slides/``` contém os slides apresentados em aula
 
+
+<details><summary>```./leituras/``` </summary>
+kkk
+  
+</details>
 <br>
 
+
+<details> <summary> ### ```./leituras/``` </summary> 
+  
+  ssss
+  </details>
 
 # Aula 03. Manipulação de dados no R
 
