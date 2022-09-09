@@ -26,8 +26,8 @@ Horário: segundas-feiras, 8h30-12h30
  
 | Aula | Data  | Tópico                                               | Aula prática? | Entrega de atividade? |
 |------|-------|------------------------------------------------------|---------------|-----------------------|
-| 1    | 12/09 | [Fundamentos de análises quantitativas](01-fundamentos/)                | Não           | Não                   |
-| 2    | 19/09 | Introdução à causalidade                             | Não           | Sim                   |
+| 1    | 12/09 | [Fundamentos de análises quantitativas](01-fundamentos/) | Não           | Não                   |
+| 2    | 19/09 | [Introdução à causalidade](02-causalidade)               | Não           | Sim                   |
 | 3    | 26/09 | Manipulação de dados no R                            | Sim           | Sim                   |
 | 4    | 03/10 | Estatísticas descritivas no R                        | Sim           | Sim                   |
 | 5    | 10/10 | Fundamentos de probabilidade                         | Não           | Não                   |
@@ -83,20 +83,20 @@ Leituras optativas
 ---
  
 Slides
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em breve
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[pdf](02-causalidade/slides/MQ_2022_Aula_02.pdf)]
 
 Leituras obrigatórias
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cunningham 2021, cap. 4](/02-causalidade/cunningham-2021-cap4.pdf) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cunningham 2021, cap. 4](/02-causalidade/leituras/cunningham-2021-cap4.pdf) 
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, cap. 3](/02-causalidade/kellstedt-whitten-2018-cap3.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, cap. 3](/02-causalidade/leituras/kellstedt-whitten-2018-cap3.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, cap. 4](/02-causalidade/kellstedt-whitten-2018-cap4.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, cap. 4](/02-causalidade/leituras/kellstedt-whitten-2018-cap4.pdf)
 
 Leitura optativa
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Dowd e Town 2002](/02-causalidade/dowd-town-2002.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Dowd e Town 2002](/02-causalidade/leituras/dowd-town-2002.pdf)
  
 ---
   
