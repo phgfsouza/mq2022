@@ -59,7 +59,7 @@ Horário: segundas-feiras, 8h30-12h30
  
 Slides
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[pdf](01-fundamentos/slides/MQ_2022_Aula_01.pdf)]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ [pdf](01-fundamentos/slides/MQ_2022_Aula_01.pdf) ]
  
 Leitura obrigatória
 
@@ -85,7 +85,7 @@ Leituras optativas
  
 Slides
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[pdf](02-causalidade/slides/MQ_2022_Aula_02.pdf)]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ [pdf](02-causalidade/slides/MQ_2022_Aula_02.pdf) ]
 
 Leituras obrigatórias
 
@@ -157,15 +157,15 @@ Bases de dados
  
 Leituras obrigatórias
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Bussab e Morettin 2010 caps. 3 e 4](/04-estatistica-descritiva/bussab-morettin-2010-cap3e4.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Bussab e Morettin 2010 caps. 3 e 4](/04-estatistica-descritiva/leituras/bussab-morettin-2010-cap3e4.pdf)
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Huntington-Klein 2022 caps. 3 e 4](/04-estatistica-descritiva/huntington-klein-2022-cap3e4.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Huntington-Klein 2022 caps. 3 e 4](/04-estatistica-descritiva/leituras/huntington-klein-2022-cap3e4.pdf)
  
 Leituras optativas
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Agresti 2018 cap. 3](/04-estatistica-descritiva/agresti-2018-cap3.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Agresti 2018 cap. 3](/04-estatistica-descritiva/leituras/agresti-2018-cap3.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018 cap. 6](/04-estatistica-descritiva/kellstedt-whitten-2018-cap6.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018 cap. 6](/04-estatistica-descritiva/leituras/kellstedt-whitten-2018-cap6.pdf)
  
  
 ---
