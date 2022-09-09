@@ -1,4 +1,4 @@
-## Aula 01. Metodologia
+## Aula 01. Fundamentos de Análises Quantitativas
 
 <br>
 
