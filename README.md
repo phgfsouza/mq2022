@@ -73,7 +73,7 @@ Leituras optativas
  
 Slides
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[pdf para download](01-fundamentos/slides/MQ_2022_Aula_01.pdf)]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](01-fundamentos/slides/MQ_2022_Aula_01.pdf)
 
 ---
   
@@ -97,7 +97,7 @@ Leitura optativa
 
 Slides
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[pdf para download](02-causalidade/slides/MQ_2022_Aula_02.pdf)]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](02-causalidade/slides/MQ_2022_Aula_02.pdf)
 
 
 ---
