@@ -1,6 +1,8 @@
 # Aula 01. Fundamentos de Análises Quantitativas
 
-12/set/2022 
+Atualizado em 09/set/2022
+
+Aula em 12/set/2022 
 
 <br>
 
@@ -11,7 +13,6 @@
 ### Obrigatória
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Babbie 2021, capítulo 4](01-fundamentos/leituras/babbie-2021-cap4.pdf)
-
 
 
 ### Optativas
