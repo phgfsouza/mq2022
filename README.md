@@ -26,7 +26,7 @@ Horário: segundas-feiras, 8h30-12h30
  
 | Aula | Data  | Tópico                                               | Aula prática? | Entrega de atividade? |
 |------|-------|------------------------------------------------------|---------------|-----------------------|
-| 1    | 12/09 | Fundamentos de análises quantitativas                | Não           | Não                   |
+| 1    | 12/09 | [Fundamentos de análises quantitativas](01-fundamentos/)                | Não           | Não                   |
 | 2    | 19/09 | Introdução à causalidade                             | Não           | Sim                   |
 | 3    | 26/09 | Manipulação de dados no R                            | Sim           | Sim                   |
 | 4    | 03/10 | Estatísticas descritivas no R                        | Sim           | Sim                   |
@@ -58,21 +58,21 @@ Horário: segundas-feiras, 8h30-12h30
  
 Slides
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em breve
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[pdf](01-fundamentos/slides/MQ_2022_Aula_01.pdf)]
  
 Leitura obrigatória
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Babbie 2021, cap. 4](01-metodologia/babbie-2021-cap4.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Babbie 2021, cap. 4](01-fundamentos/leituras/babbie-2021-cap4.pdf)
 
 Leituras optativas
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Babbie 2021, cap. 1](01-metodologia/babbie-2021-cap1.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Babbie 2021, cap. 1](01-fundamentos/leituras/babbie-2021-cap1.pdf)
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, p. 1-42](01-metodologia/kellstedt-whitten-2018-p1a42.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, p. 1-42](01-fundamentos/leituras/kellstedt-whitten-2018-p1a42.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [King, Keohane e Verba 1994, cap. 1](01-metodologia/king-keohane-verba-1994-cap1.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [King, Keohane e Verba 1994, cap. 1](01-fundamentos/leituras/king-keohane-verba-1994-cap1.pdf)
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ragin e Amoroso 2011, caps. 1 e 2](01-metodologia/ragin-amoroso-2011-cap1e2.pdf)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ragin e Amoroso 2011, caps. 1 e 2](01-fundamentos.leituras/ragin-amoroso-2011-cap1e2.pdf)
  
 ---
   
