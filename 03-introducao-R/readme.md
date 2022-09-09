@@ -1,32 +1,19 @@
 
 # Aula 03. Manipulação de dados no R
 
-<br>
-
-## Estrutura de pastas
-
-&nbsp;&nbsp; &nbsp;  ```./leituras/``` contém os links para as leituras obrigatórias e optativas para a aula
-
-&nbsp; &nbsp; &nbsp; ```./slides/``` contém os slides apresentados em aula
-
-
-<details><summary>```./leituras/``` </summary>
-kkk
-  
-</details>
-<br>
-
-
-<details> <summary> ### ```./leituras/``` </summary> 
-  
-  ssss
-  </details>
-
-# Aula 03. Manipulação de dados no R
+26/set/2022 
 
 <br>
 
-## Leituras obrigatórias
+<details> <summary>
+
+## Leituras
+
+</summary>
+
+---
+ 
+### Obrigatórias 
 
 **Curso-R, *Ciência de Dados em R*, capítulos 1 a 6**
 
@@ -42,7 +29,7 @@ kkk
 
 <br>
 
-## Leituras optativas
+### Optativas
 
 **Roger Peng, *R Programming for Data Science*, capítulos 3 a 6**
 
@@ -55,3 +42,26 @@ kkk
 &nbsp;&nbsp;&nbsp;&nbsp;  Consulta online em https://rafalab.github.io/dsbook/
 
 &nbsp;&nbsp;&nbsp;&nbsp; PDF para download em https://leanpub.com/datasciencebook
+
+---
+
+</details>
+
+
+<details> <summary>
+
+## Slides 
+
+</summary>
+
+---
+
+Em breve
+
+---
+
+</details>
+
+
+
+
