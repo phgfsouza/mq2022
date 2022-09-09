@@ -1,67 +1,33 @@
 
 # Aula 03. Manipulação de dados no R
 
-26/set/2022 
+Atualizado em 09/set/2022
+
+Aula em 26/set/2022
 
 <br>
-
-<details> <summary>
 
 ## Leituras
 
-</summary>
-
----
- 
 ### Obrigatórias 
 
-**Curso-R, *Ciência de Dados em R*, capítulos 1 a 6**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Curso-R, *Ciência de Dados em R*, capítulos 1 a 6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[versão web](https://livro.curso-r.com/index.html)] &nbsp;&nbsp; [[pdf para download](https://livro.curso-r.com/livro-curso-r.pdf)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; Consulta online em https://livro.curso-r.com/index.html
 
-&nbsp;&nbsp;&nbsp;&nbsp; PDF para download em https://livro.curso-r.com/livro-curso-r.pdf
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IBPAD, *Ciência de Dados em R - Introdução*, capítulos 1 a 5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[versão web](https://cdr.ibpad.com.br/index.html)] &nbsp;&nbsp; [[pdf para download](https://cdr.ibpad.com.br/cdr-intro.pdf)]
 
-**IBPAD, *Ciência de Dados em R - Introdução*, capítulos 1 a 5**
-
-&nbsp;&nbsp;&nbsp;&nbsp; Consulta online em https://cdr.ibpad.com.br/index.html
-
-&nbsp;&nbsp;&nbsp;&nbsp; PDF para download em https://cdr.ibpad.com.br/cdr-intro.pdf
-
-<br>
 
 ### Optativas
 
-**Roger Peng, *R Programming for Data Science*, capítulos 3 a 6**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roger Peng, *R Programming for Data Science*, capítulos 3 a 6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[versão web](https://bookdown.org/rdpeng/rprogdatascience/)] &nbsp;&nbsp; [[pdf para download](https://leanpub.com/rprogramming)]
 
-&nbsp;&nbsp;&nbsp;&nbsp;  Consulta online em https://bookdown.org/rdpeng/rprogdatascience/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rafael Irizarry, *Introduction to Data Science*, capítulos 1 a 6  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[versão web](https://rafalab.github.io/dsbook/)] &nbsp;&nbsp; [[pdf para download](https://leanpub.com/datasciencebook)]
 
-&nbsp;&nbsp;&nbsp;&nbsp; PDF para download em https://leanpub.com/rprogramming
-
-**Rafael Irizarry, *Introduction to Data Science*, capítulos 1 a 6**
-
-&nbsp;&nbsp;&nbsp;&nbsp;  Consulta online em https://rafalab.github.io/dsbook/
-
-&nbsp;&nbsp;&nbsp;&nbsp; PDF para download em https://leanpub.com/datasciencebook
-
----
-
-</details>
-
-
-<details> <summary>
+<br>
 
 ## Slides 
 
-</summary>
-
----
-
 Em breve
-
----
-
-</details>
-
 
 
 
