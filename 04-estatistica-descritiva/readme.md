@@ -1,11 +1,32 @@
 
 
-## Aula 04. Estatísticas Descritivas no R
+# Aula 04. Estatísticas Descritivas no R
+
+Atualizado em 09/set/2022
+
+Aula em 03/out/2022
 
 <br>
 
-**Estrutura de pastas**
+## Leituras
 
-&nbsp;&nbsp; &nbsp;  ```./leituras/``` contém os pdfs com as leituras obrigatórias e optativas para a aula
+### Obrigatórias 
 
-&nbsp; &nbsp; &nbsp; ```./slides/``` contém os slides apresentados em aula
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+### Optativas
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+<br>
+
+## Slides 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Em breve
+
+
+
