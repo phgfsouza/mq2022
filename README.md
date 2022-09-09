@@ -2,17 +2,18 @@
 
 <br> 
 
-Repositório central da turma de Métodos Quantitativos de 2022 do MPPPD/Ipea. 
+Seja bem-vindo ao repositório central da turma de Métodos Quantitativos de 2022 do MPPPD/Ipea. 
 
-Todas as atividades (listas de exercícios, trabalhos, provas etc) serão postadas somente na página da disciplina no [Google Classroom](http://classroom.google.com), como explicado no [programa](programa-completo.pdf). 
+O repositório contém as versões mais atualizadas do plano de aulas, leituras, slides, scripts e bases de dados usados em sala de aula. Caso você tenha problemas em carregar alguns dos links para o material de aula, por favor veja diretamente nas pastas acima e faça o download dos arquivos.
 
-O plano de aulas será sempre atualizado com pelo menos duas semanas de antecedência. Caso você tenha problemas em carregar alguns dos links para o material de aula, por favor veja diretamente nas pastas acima e faça o download dos arquivos.
+Todas as atividades (listas de exercícios, trabalhos, provas etc) serão postadas **somente** na página da disciplina no [Google Classroom](http://classroom.google.com), como explicado no [programa](programa-completo.pdf). 
+
 
 <br>
 
 ## Informações gerais
 
-Professor: Pedro H. G. Ferreira de Souza  &nbsp;&nbsp;  [ [Lattes] ](http://lattes.cnpq.br/6550053913880063) &nbsp;&nbsp; [ [Google Scholar] ](https://scholar.google.com.br/citations?user=OO5-iGcAAAAJ&hl=pt-BR)
+Professor: Pedro H. G. Ferreira de Souza  &nbsp;&nbsp;  [[Lattes](http://lattes.cnpq.br/6550053913880063)] &nbsp;&nbsp; [[Google Scholar](https://scholar.google.com.br/citations?user=OO5-iGcAAAAJ&hl=pt-BR)]
 
 Período: 12 de setembro a 5 de dezembro de 2022
 
