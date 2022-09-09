@@ -59,7 +59,7 @@ Horário: segundas-feiras, 8h30-12h30
  
 Slides
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ [pdf](01-fundamentos/slides/MQ_2022_Aula_01.pdf) ]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[pdf]](01-fundamentos/slides/MQ_2022_Aula_01.pdf)
  
 Leitura obrigatória
 
@@ -85,7 +85,7 @@ Leituras optativas
  
 Slides
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ [pdf](02-causalidade/slides/MQ_2022_Aula_02.pdf) ]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[pdf]](02-causalidade/slides/MQ_2022_Aula_02.pdf)
 
 Leituras obrigatórias
 
