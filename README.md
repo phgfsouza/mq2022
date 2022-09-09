@@ -57,10 +57,6 @@ Horário: segundas-feiras, 8h30-12h30
 
 ---
  
-Slides
- 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[pdf]](01-fundamentos/slides/MQ_2022_Aula_01.pdf)
- 
 Leitura obrigatória
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Babbie 2021, cap. 4](01-fundamentos/leituras/babbie-2021-cap4.pdf)
@@ -73,8 +69,12 @@ Leituras optativas
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [King, Keohane e Verba 1994, cap. 1](01-fundamentos/leituras/king-keohane-verba-1994-cap1.pdf)
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ragin e Amoroso 2011, caps. 1 e 2](01-fundamentos/leituras/ragin-amoroso-2011-cap1e2.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ragin e Amoroso 2011, caps. 1 e 2](01-fundamentos/leituras/ragin-amoroso-2011-cap1e2.pdf)
  
+Slides
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[pdf para download](01-fundamentos/slides/MQ_2022_Aula_01.pdf)]
+
 ---
   
 </details>
@@ -83,10 +83,6 @@ Leituras optativas
 
 ---
  
-Slides
- 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[pdf]](02-causalidade/slides/MQ_2022_Aula_02.pdf)
-
 Leituras obrigatórias
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cunningham 2021, cap. 4](/02-causalidade/leituras/cunningham-2021-cap4.pdf) 
@@ -98,7 +94,12 @@ Leituras obrigatórias
 Leitura optativa
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Dowd e Town 2002](/02-causalidade/leituras/dowd-town-2002.pdf)
+
+Slides
  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[pdf para download](02-causalidade/slides/MQ_2022_Aula_02.pdf)]
+
+
 ---
   
 </details>
@@ -106,6 +107,19 @@ Leitura optativa
 <details><summary>03. Manipulação de dados no R (26/set) </summary>
 
 ---
+ 
+Leituras obrigatórias
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Curso-R, *Ciência de Dados em R*, capítulos 1 a 6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[versão web](https://livro.curso-r.com/index.html)] &nbsp;&nbsp; [[pdf para download](https://livro.curso-r.com/livro-curso-r.pdf)]
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IBPAD, *Ciência de Dados em R - Introdução*, capítulos 1 a 5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[versão web](https://cdr.ibpad.com.br/index.html)] &nbsp;&nbsp; [[pdf para download](https://cdr.ibpad.com.br/cdr-intro.pdf)]
+ 
+Leituras optativas
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roger Peng, *R Programming for Data Science*, capítulos 3 a 6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[versão web](https://bookdown.org/rdpeng/rprogdatascience/)] &nbsp;&nbsp; [[pdf para download](https://leanpub.com/rprogramming)]
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rafael Irizarry, *Introduction to Data Science*, capítulos 1 a 6  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[versão web](https://rafalab.github.io/dsbook/)] &nbsp;&nbsp; [[pdf para download](https://leanpub.com/datasciencebook)]
  
 Slides
  
@@ -118,18 +132,6 @@ Scripts
 Bases de dados
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em breve
- 
-Leituras obrigatórias
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Curso-R, Ciências de Dados no R, caps. 1 a 6](https://livro.curso-r.com/index.html)
- 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [IBPAD, Ciência de Dados em R - Introdução caps. 1 a 5](https://cdr.ibpad.com.br/index.html)
- 
-Leituras optativas
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Roger Peng, R Programming for Data Science, caps. 3 a 6](https://bookdown.org/rdpeng/rprogdatascience/)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Rafael Irizarry, Introduction to Data Science, caps. 1 a 6](https://rafalab.github.io/dsbook/)
  
  
 ---
@@ -141,19 +143,6 @@ Leituras optativas
 <details><summary>04. Estatísticas descritivas no R (03/out) </summary>
 
 ---
- 
-Slides
- 
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em breve
-
-Scripts
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em breve
- 
-Bases de dados
- 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em breve
  
 Leituras obrigatórias
 
@@ -167,6 +156,18 @@ Leituras optativas
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018 cap. 6](/04-estatistica-descritiva/leituras/kellstedt-whitten-2018-cap6.pdf)
  
+Slides
+
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em breve
+
+Scripts
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em breve
+ 
+Bases de dados
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em breve
  
 ---
  
