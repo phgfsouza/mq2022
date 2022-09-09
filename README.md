@@ -28,9 +28,9 @@ Horário: segundas-feiras, 8h30-12h30
 | Aula | Data  | Tópico                                               | Aula prática? | Entrega de atividade? |
 |------|-------|------------------------------------------------------|---------------|-----------------------|
 | 1    | 12/09 | [Fundamentos de análises quantitativas](01-fundamentos/) | Não           | Não                   |
-| 2    | 19/09 | [Introdução à causalidade](02-causalidade)               | Não           | Sim                   |
-| 3    | 26/09 | Manipulação de dados no R                            | Sim           | Sim                   |
-| 4    | 03/10 | Estatísticas descritivas no R                        | Sim           | Sim                   |
+| 2    | 19/09 | [Introdução à causalidade](02-causalidade/)              | Não           | Sim                   |
+| 3    | 26/09 | [Manipulação de dados no R](03-introducao-R/)            | Sim           | Sim                   |
+| 4    | 03/10 | [Estatísticas descritivas no R](04-estatisticas-descritivas/) | Sim           | Sim                   |
 | 5    | 10/10 | Fundamentos de probabilidade                         | Não           | Não                   |
 | 6    | 17/10 | Inferência estatística                               | Não           | Não                   |
 | 7    | 24/10 | Testes de hipóteses                                  | Não           | Sim                   |
