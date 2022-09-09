@@ -12,22 +12,22 @@ Aula em 19/set/2022
 
 ### Obrigatórias
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cunningham 2021, cap. 4](/02-causalidade/leituras/cunningham-2021-cap4.pdf) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cunningham 2021, cap. 4](leituras/cunningham-2021-cap4.pdf) 
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, cap. 3](/02-causalidade/leituras/kellstedt-whitten-2018-cap3.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, cap. 3](leituras/kellstedt-whitten-2018-cap3.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, cap. 4](/02-causalidade/leituras/kellstedt-whitten-2018-cap4.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, cap. 4](leituras/kellstedt-whitten-2018-cap4.pdf)
 
 
 ### Optativa
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Dowd e Town 2002](/02-causalidade/leituras/dowd-town-2002.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Dowd e Town 2002](leituras/dowd-town-2002.pdf)
  
 <br> 
 
 ## Slides
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](02-causalidade/slides/MQ_2022_Aula_02.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](slides/MQ_2022_Aula_02.pdf)
 
 
 
