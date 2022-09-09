@@ -4,9 +4,9 @@
 
 Seja bem-vindo ao repositório central da turma de Métodos Quantitativos de 2022 do MPPPD/Ipea. 
 
-O repositório contém as versões mais atualizadas do plano de aulas, leituras, slides, scripts e bases de dados usados em sala de aula. Caso você tenha problemas em carregar alguns dos links para o material de aula, por favor veja diretamente nas pastas acima e faça o download dos arquivos.
+O repositório contém as **versões mais atualizadas do plano de aulas, leituras, slides, scripts e bases de dados** usados em sala de aula. Caso você tenha problemas em carregar alguns dos links para o material de aula, por favor veja diretamente nas pastas acima e faça o download dos arquivos.
 
-Todas as **atividades** (listas de exercícios, trabalhos, provas etc) serão postadas **somente** na página da disciplina no **[Google Classroom](http://classroom.google.com)**, como explicado no [programa](programa-completo.pdf). 
+**Todas as atividades** (listas de exercícios, trabalhos, provas etc) **serão postadas somente na página da disciplina no [Google Classroom](http://classroom.google.com)**, como explicado no [programa](programa-completo.pdf). 
 
 
 <br>
