@@ -72,7 +72,7 @@ Leituras optativas
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [King, Keohane e Verba 1994, cap. 1](01-fundamentos/leituras/king-keohane-verba-1994-cap1.pdf)
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ragin e Amoroso 2011, caps. 1 e 2](01-fundamentos.leituras/ragin-amoroso-2011-cap1e2.pdf)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ragin e Amoroso 2011, caps. 1 e 2](01-fundamentos/leituras/ragin-amoroso-2011-cap1e2.pdf)
  
 ---
   
