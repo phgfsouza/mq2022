@@ -1,8 +1,8 @@
 # Aula 01. Fundamentos de Análises Quantitativas
 
-Atualizado em 09/set/2022
+Atualizado em 13/set/2022
 
-Aula em 13/set/2022 
+Aula em 12/set/2022 
 
 <br>
 
