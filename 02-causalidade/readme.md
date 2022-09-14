@@ -1,6 +1,6 @@
 # Aula 02. Introdução à Causalidade
 
-Atualizado em 13/set/2022 
+Atualizado em 14/set/2022 
 
 Aula em 19/set/2022 
 
