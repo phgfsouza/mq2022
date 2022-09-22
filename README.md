@@ -85,15 +85,15 @@ Slides
  
 Leituras obrigatórias
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cunningham 2021, cap. 4](/02-causalidade/leituras/cunningham-2021-cap4.pdf) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cunningham 2021, cap. 4](02-causalidade/leituras/cunningham-2021-cap4.pdf) 
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, cap. 3](/02-causalidade/leituras/kellstedt-whitten-2018-cap3.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, cap. 3](02-causalidade/leituras/kellstedt-whitten-2018-cap3.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, cap. 4](/02-causalidade/leituras/kellstedt-whitten-2018-cap4.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018, cap. 4](02-causalidade/leituras/kellstedt-whitten-2018-cap4.pdf)
 
 Leitura optativa
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Dowd e Town 2002](/02-causalidade/leituras/dowd-town-2002.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Dowd e Town 2002](02-causalidade/leituras/dowd-town-2002.pdf)
 
 Slides
  
@@ -112,22 +112,22 @@ Leituras obrigatórias
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Curso-R, *Ciência de Dados em R*, capítulos 1 a 6 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[versão web](https://livro.curso-r.com/index.html)] &nbsp;&nbsp; [[pdf completo](https://livro.curso-r.com/livro-curso-r.pdf)] &nbsp;&nbsp; [[pdf para aula](/03-introducao-r/leituras/curso-r-livro-cap1a6.pdf)] 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[versão web](https://livro.curso-r.com/index.html)] &nbsp;&nbsp; [[pdf completo](https://livro.curso-r.com/livro-curso-r.pdf)] &nbsp;&nbsp; [[pdf para aula](03-introducao-r/leituras/curso-r-livro-cap1a6.pdf)] 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IBPAD, *Ciência de Dados em R - Introdução*, capítulos 1 a 5 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[versão web](https://cdr.ibpad.com.br/index.html)] &nbsp;&nbsp; [[pdf completo](https://cdr.ibpad.com.br/cdr-intro.pdf)] &nbsp;&nbsp; [[pdf para aula](/03-introducao-r/leituras/ibpad-livro-cap1a6.pdf)] 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[versão web](https://cdr.ibpad.com.br/index.html)] &nbsp;&nbsp; [[pdf completo](https://cdr.ibpad.com.br/cdr-intro.pdf)] &nbsp;&nbsp; [[pdf para aula](03-introducao-r/leituras/ibpad-livro-cap1a6.pdf)] 
  
 Leituras optativas
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roger Peng, *R Programming for Data Science*, capítulos 3 a 6 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[versão web](https://bookdown.org/rdpeng/rprogdatascience/)] &nbsp;&nbsp; [[pdf completo](https://leanpub.com/rprogramming)] &nbsp;&nbsp; [[pdf para aula](/03-introducao-r/leituras/roger-peng-cap3a6.pdf)] 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[versão web](https://bookdown.org/rdpeng/rprogdatascience/)] &nbsp;&nbsp; [[pdf completo](https://leanpub.com/rprogramming)] &nbsp;&nbsp; [[pdf para aula](03-introducao-r/leituras/roger-peng-cap3a6.pdf)] 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rafael Irizarry, *Introduction to Data Science*, capítulos 1 a 6  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[versão web](https://rafalab.github.io/dsbook/)] &nbsp;&nbsp; [[pdf completo](https://leanpub.com/datasciencebook)] &nbsp;&nbsp; [[pdf para aula](/03-introducao-r/leituras/rafael-irizarry-cap1a5.pdf)] 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[versão web](https://rafalab.github.io/dsbook/)] &nbsp;&nbsp; [[pdf completo](https://leanpub.com/datasciencebook)] &nbsp;&nbsp; [[pdf para aula](03-introducao-r/leituras/rafael-irizarry-cap1a5.pdf)] 
  
 Slides
  
