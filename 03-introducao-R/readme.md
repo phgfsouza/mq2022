@@ -35,11 +35,11 @@ Aula em 26/set/2022
 
 ## Slides 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[pdf para download](slides/MQ_2022_Aula_03.pdf)]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](slides/MQ_2022_Aula_03.pdf)
 
 ## Material de apoio
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[zip para download](material-apoio.zip)]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [zip para download](material-apoio.zip)
 
 
 
