@@ -20,7 +20,6 @@ Aula em 26/set/2022
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[versão web](https://cdr.ibpad.com.br/index.html)] &nbsp;&nbsp; [[pdf completo](https://cdr.ibpad.com.br/cdr-intro.pdf)] &nbsp;&nbsp; [[pdf para aula](leituras/ibpad-livro-cap1a6.pdf)] 
  
 
-
 ### Optativas
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Roger Peng, *R Programming for Data Science*, capítulos 3 a 6 
@@ -36,6 +35,8 @@ Aula em 26/set/2022
 ## Slides 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](slides/MQ_2022_Aula_03.pdf)
+
+<br> 
 
 ## Material de apoio
  
