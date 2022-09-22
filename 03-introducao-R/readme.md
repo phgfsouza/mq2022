@@ -1,7 +1,7 @@
 
 # Aula 03. Manipulação de dados no R
 
-Atualizado em 09/set/2022
+Atualizado em 22/set/2022
 
 Aula em 26/set/2022
 
