@@ -1,6 +1,6 @@
 # Aula 01. Fundamentos de Análises Quantitativas
 
-Atualizado em 13/set/2022
+Atualizado em 30/set/2022
 
 Aula em 12/set/2022 
 
@@ -31,7 +31,9 @@ Aula em 12/set/2022
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](slides/MQ_2022_Aula_01.pdf)
 
-## Atividade 
+<br> 
+
+## Atividade \#1
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Perguntas](atividade/atividade01.pdf)
 
