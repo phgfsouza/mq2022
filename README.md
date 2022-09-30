@@ -105,11 +105,11 @@ Slides
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](02-causalidade/slides/MQ_2022_Aula_02.pdf)
 
-Atividade \#1
+Atividade \#2
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Perguntas](02-causalidade/atividade/atividade01.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Perguntas](02-causalidade/atividade/atividade02.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Gabarito](02-causalidade/atividade/atividade01-gabarito.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Gabarito](02-causalidade/atividade/atividade02-gabarito.pdf)
  
 ---
   
