@@ -31,7 +31,11 @@ Aula em 12/set/2022
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](slides/MQ_2022_Aula_01.pdf)
 
+## Atividade 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Perguntas](atividade/atividade01.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Gabarito](atividade/atividade01-gabarito.pdf)
 
 
 
