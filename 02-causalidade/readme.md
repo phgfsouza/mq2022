@@ -1,6 +1,6 @@
 # Aula 02. Introdução à Causalidade
 
-Atualizado em 15/set/2022 
+Atualizado em 30/set/2022 
 
 Aula em 19/set/2022 
 
@@ -29,6 +29,13 @@ Aula em 19/set/2022
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](slides/MQ_2022_Aula_02.pdf)
 
+<br>
+
+## Atividade \#2
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Perguntas](atividade/atividade02.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Gabarito](atividade/atividade02-gabarito.pdf)
 
 
 
