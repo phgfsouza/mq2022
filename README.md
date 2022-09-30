@@ -110,6 +110,7 @@ Atividade \#1
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Perguntas](02-causalidade/atividade/atividade01.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Gabarito](02-causalidade/atividade/atividade01-gabarito.pdf)
+ 
 ---
   
 </details>
