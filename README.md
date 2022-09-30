@@ -75,6 +75,12 @@ Slides
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](01-fundamentos/slides/MQ_2022_Aula_01.pdf)
 
+Atividade \#1
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Perguntas](01-fundamentos/atividade/atividade01.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Gabarito](01-fundamentos/atividade/atividade01-gabarito.pdf)
+
 ---
   
 </details>
@@ -99,7 +105,11 @@ Slides
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](02-causalidade/slides/MQ_2022_Aula_02.pdf)
 
+Atividade \#1
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Perguntas](02-causalidade/atividade/atividade01.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Gabarito](02-causalidade/atividade/atividade01-gabarito.pdf)
 ---
   
 </details>
