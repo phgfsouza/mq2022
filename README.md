@@ -142,7 +142,7 @@ Leituras optativas
  
 Slides
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](03-04-introducao-R/slides/MQ_2022_Aula_03.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](03-04-introducao-R/slides/MQ_2022_Aula_03_04.pdf)
  
 Material de apoio (scripts, dados e afins)
  
