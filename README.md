@@ -27,19 +27,19 @@ Horário: segundas-feiras, 8h30-12h30
  
 | Aula | Data  | Tópico                                               | Aula prática? | Entrega de atividade? |
 |------|-------|------------------------------------------------------|---------------|-----------------------|
-| 1    | 12/09 | [Fundamentos de análises quantitativas](01-fundamentos/) | Não           | Não                   |
-| 2    | 19/09 | [Introdução à causalidade](02-causalidade/)              | Não           | Sim                   |
-| 3    | 26/09 | [Manipulação de dados no R](03-introducao-R/)            | Sim           | Sim                   |
-| 4    | 03/10 | [Estatísticas descritivas no R](04-estatistica-descritiva/) | Sim           | Sim                   |
-| 5    | 10/10 | Fundamentos de probabilidade                         | Não           | Não                   |
-| 6    | 17/10 | Inferência estatística                               | Não           | Não                   |
-| 7    | 24/10 | Testes de hipóteses                                  | Não           | Sim                   |
+| 1    | 12/09 | [Fundamentos de análises quantitativas](01-fundamentos/) | Não           | Não               |
+| 2    | 19/09 | [Introdução à causalidade](02-causalidade/)              | Não           | Sim               |
+| 3    | 26/09 | [Manipulação de dados no R, parte 1](03-04-introducao-R/)   | Sim        | Sim               |
+| 4    | 03/10 | [Manipulação de dados no R, parte 2](03-04-introducao-R/)   | Sim        | Não               |
+| 5    | 10/10 | [Estatísticas descritivas no R](05-estatistica-descritiva/) | Sim        | Sim               |
+| 6    | 17/10 | [Fundamentos de probabilidade](06-probabilidade/)    | Sim           | Sim                   |
+| 7    | 24/10 | [Inferência estatística](07-inferencia/)             | Sim           | Não                   |
 | -    | 31/10 | **NÃO HAVERÁ AULA**                                  | -             | Não                   |
-| 8    | 07/11 | Probabilidade, inferência e testes de hipóteses no R | Sim           | Sim                   |
-| 9    | 14/11 | Regressao linear, parte 1                            | Não           | Não                   |
-| 10   | 21/11 | Regressão linear, parte 2                            | Não           | Sim                   |
+| 8    | 07/11 | Testes de hipóteses                                  | Sim           | Não                   |
+| 9    | 14/11 | Regressao linear, parte 1                            | Sim           | Sim                   |
+| 10   | 21/11 | Regressão linear, parte 2                            | Sim           | Sim                   |
 | -    | 28/11 | **NÃO HAVERÁ AULA**                                  | -             | Não                   |
-| 11   | 05/12 | Regressão linear no R                                | Sim           | Sim                   |
+| 11   | 05/12 | Regressão linear, parte 3                            | Sim           | Sim                   |
 | -    | 16/12 | **PRAZO PARA ENTREGA DO TRABALHO FINAL**             | -             | Sim                   |
  
 ---
@@ -115,7 +115,7 @@ Atividade \#2
   
 </details>
 
-<details><summary>03. Manipulação de dados no R (26/set) </summary>
+<details><summary>03 e 04. Manipulação de dados no R (26/set e 03/out) </summary>
 
 ---
  
@@ -151,11 +151,10 @@ Material de apoio (scripts, dados e afins)
  
 ---
  
-  
 </details>
 
 
-<details><summary>04. Estatísticas descritivas no R (03/out) </summary>
+<details><summary>05. Estatísticas descritivas no R (10/out) </summary>
 
 ---
  
