@@ -34,7 +34,7 @@ Aula em 26/set/2022 e 03/out/2022
 
 ## Slides 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](slides/MQ_2022_Aula_03.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](slides/MQ_2022_Aula_03_04.pdf)
 
 <br> 
 
