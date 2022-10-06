@@ -171,17 +171,12 @@ Leituras optativas
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018 cap. 6](/05-estatistica-descritiva/leituras/kellstedt-whitten-2018-cap6.pdf)
  
 Slides
-
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em breve
-
-Scripts
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em breve
  
-Bases de dados
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](05-estatistica-descritiva/slides/MQ_2022_Aula_05.pdf)
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em breve
+Material de apoio (scripts, dados e afins)
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [zip para download](05-estatistica-descritiva/material-apoio.zip)
  
 ---
  
