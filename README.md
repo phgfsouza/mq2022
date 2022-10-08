@@ -32,8 +32,8 @@ Horário: segundas-feiras, 8h30-12h30
 | 3    | 26/09 | [Manipulação de dados no R, parte 1](03-04-introducao-R/)   | Sim        | Sim               |
 | 4    | 03/10 | [Manipulação de dados no R, parte 2](03-04-introducao-R/)   | Sim        | Não               |
 | 5    | 10/10 | [Estatísticas descritivas no R](05-estatistica-descritiva/) | Sim        | Sim               |
-| 6    | 17/10 | [Fundamentos de probabilidade](06-probabilidade/)    | Sim           | Sim                   |
-| 7    | 24/10 | [Inferência estatística](07-inferencia/)             | Sim           | Não                   |
+| 6    | 17/10 | [Fundamentos de probabilidade](06-probabilidade/)    | Sim           | Não                   |
+| 7    | 24/10 | [Inferência estatística](07-inferencia/)             | Sim           | Sim                   |
 | -    | 31/10 | **NÃO HAVERÁ AULA**                                  | -             | Não                   |
 | 8    | 07/11 | Testes de hipóteses                                  | Sim           | Não                   |
 | 9    | 14/11 | Regressao linear, parte 1                            | Sim           | Sim                   |
