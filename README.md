@@ -31,6 +31,7 @@ Horário: segundas-feiras, 8h30-12h30
 | 2    | 19/09 | [Introdução à causalidade](02-causalidade/)              | Não           | Sim               |
 | 3    | 26/09 | [Manipulação de dados no R, parte 1](03-04-introducao-R/)   | Sim        | Sim               |
 | 4    | 03/10 | [Manipulação de dados no R, parte 2](03-04-introducao-R/)   | Sim        | Não               |
+| -    | 10/10 | **AULA CANCELADA**                                   | -                 | Não               |
 | 5    | 17/10 | [Estatísticas descritivas no R](05-estatistica-descritiva/) | Sim        | Sim               |
 | 6    | 24/10 | [Fundamentos de probabilidade](06-probabilidade/)    | Sim           | Não                   |
 | -    | 31/10 | **NÃO HAVERÁ AULA**                                  | -             | Não                   |
