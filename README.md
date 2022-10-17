@@ -15,7 +15,7 @@ O repositório contém as **versões mais atualizadas do plano de aulas, leitura
 
 Professor: Pedro H. G. Ferreira de Souza  &nbsp;&nbsp;  [[Lattes](http://lattes.cnpq.br/6550053913880063)] &nbsp;&nbsp; [[Google Scholar](https://scholar.google.com.br/citations?user=OO5-iGcAAAAJ&hl=pt-BR)]
 
-Período: 12 de setembro a 5 de dezembro de 2022
+Período: 12 de setembro a 12 de dezembro de 2022
 
 Horário: segundas-feiras, 8h30-12h30
 
@@ -31,15 +31,15 @@ Horário: segundas-feiras, 8h30-12h30
 | 2    | 19/09 | [Introdução à causalidade](02-causalidade/)              | Não           | Sim               |
 | 3    | 26/09 | [Manipulação de dados no R, parte 1](03-04-introducao-R/)   | Sim        | Sim               |
 | 4    | 03/10 | [Manipulação de dados no R, parte 2](03-04-introducao-R/)   | Sim        | Não               |
-| 5    | 10/10 | [Estatísticas descritivas no R](05-estatistica-descritiva/) | Sim        | Sim               |
-| 6    | 17/10 | [Fundamentos de probabilidade](06-probabilidade/)    | Sim           | Não                   |
-| 7    | 24/10 | [Inferência estatística](07-inferencia/)             | Sim           | Sim                   |
+| 5    | 17/10 | [Estatísticas descritivas no R](05-estatistica-descritiva/) | Sim        | Sim               |
+| 6    | 24/10 | [Fundamentos de probabilidade](06-probabilidade/)    | Sim           | Não                   |
 | -    | 31/10 | **NÃO HAVERÁ AULA**                                  | -             | Não                   |
-| 8    | 07/11 | Testes de hipóteses                                  | Sim           | Não                   |
-| 9    | 14/11 | Regressao linear, parte 1                            | Sim           | Sim                   |
-| 10   | 21/11 | Regressão linear, parte 2                            | Sim           | Sim                   |
+| 7    | 07/11 | [Inferência estatística](07-inferencia/)             | Sim           | Sim                   |
+| 8    | 14/11 | Testes de hipóteses                                  | Sim           | Não                   |
+| 9    | 21/11 | Regressao linear, parte 1                            | Sim           | Sim                   |
 | -    | 28/11 | **NÃO HAVERÁ AULA**                                  | -             | Não                   |
-| 11   | 05/12 | Regressão linear, parte 3                            | Sim           | Sim                   |
+| 10   | 05/12 | Regressão linear, parte 2                            | Sim           | Sim                   |
+| 11   | 12/12 | Regressão linear, parte 3                            | Sim           | Sim                   |
 | -    | 16/12 | **PRAZO PARA ENTREGA DO TRABALHO FINAL**             | -             | Sim                   |
  
 ---
