@@ -155,7 +155,7 @@ Material de apoio (scripts, dados e afins)
 </details>
 
 
-<details><summary>05. Estatísticas descritivas no R (10/out) </summary>
+<details><summary>05. Estatísticas descritivas no R (17/out) </summary>
 
 ---
  
@@ -182,4 +182,27 @@ Material de apoio (scripts, dados e afins)
 ---
  
   
+</details>
+
+
+<details><summary>06. Fundamentos de probabilidade (24/10) </summary>
+
+--- 
+
+Leituras obrigatórias 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Agresti 2018 caps. 2 e 4](06-probabilidade/leituras/agresti-2018-cap2e4.pdf)
+
+Leituras optativas
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Bussab e Morettin 2010 caps. 5 a 8](06-probabilidade/leituras/bussab-morettin-2010-cap5a8.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kellstedt e Whitten 2018 cap. 7](06-probabilidade/leituras/kellstedt-whitten-2018-cap7.pdf)
+
+Slides
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](06-probabilidade/slides/MQ_2002_Aula_06.pdf)
+
+---
+
 </details>
