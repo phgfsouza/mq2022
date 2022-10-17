@@ -12,7 +12,7 @@ Aula em 24/out/2022
 
 ### Obrigatórias 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Agresti 2018 cap. 2 e 4](leituras/agresti-2018-cap2e4.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Agresti 2018 caps. 2 e 4](leituras/agresti-2018-cap2e4.pdf)
 
 ### Optativas
 
