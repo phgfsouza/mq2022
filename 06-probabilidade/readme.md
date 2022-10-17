@@ -24,8 +24,9 @@ Aula em 24/out/2022
 
 ## Slides
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](slides/MQ_2022_Aula_06.pdf)
- 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](slides/MQ_2002_Aula_06.pdf)
+
+
 <br>
 
 
