@@ -36,7 +36,7 @@ Horário: segundas-feiras, 8h30-12h30
 | 6    | 24/10 | [Fundamentos de probabilidade](06-probabilidade/)    | Sim           | Sim                   |
 | -    | 31/10 | **NÃO HAVERÁ AULA**                                  | -             | Não                   |
 | 7    | 07/11 | [Inferência estatística](07-inferencia/)             | Sim           | Sim                   |
-| 8    | 14/11 | Testes de hipóteses                                  | Sim           | Não                   |
+| 8    | 14/11 | [Testes de hipóteses](08-testes-hipoteses/)          | Sim           | Não                   |
 | 9    | 21/11 | Regressao linear, parte 1                            | Sim           | Sim                   |
 | -    | 28/11 | **NÃO HAVERÁ AULA**                                  | -             | Não                   |
 | 10   | 05/12 | Regressão linear, parte 2                            | Sim           | Sim                   |
@@ -149,7 +149,12 @@ Material de apoio (scripts, dados e afins)
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [zip para download](03-04-introducao-R/material-apoio.zip)
  
+Atividade \#3
  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Perguntas](03-04-introducao-R/atividade/atividade03.r)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Gabarito](03-04-introducao-R/atividade/atividade03-respostas.r)
+
 ---
  
 </details>
@@ -179,6 +184,12 @@ Material de apoio (scripts, dados e afins)
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [zip para download](05-estatistica-descritiva/material-apoio.zip)
  
+Atividade \#4
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Perguntas](05-estatistica-descritiva/atividade/atividade04.r)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Gabarito](05-estatistica-descritiva/atividade/atividade04-respostas.r)
+
 ---
  
   
@@ -206,3 +217,47 @@ Slides
 ---
 
 </details>
+
+
+<details><summary>07. Inferência estatística (07/11) </summary>
+
+--- 
+
+Leituras obrigatórias 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Agresti 2018 caps. 5](07-inferencia/leituras/agresti-2018-cap5.pdf)
+
+Leituras optativas
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Bussab e Morettin 2010 caps. 10 e 11](07-inferencia/leituras/bussab-morettin-2010-cap10e11.pdf)
+
+Slides
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](07-inferencia/slides/MQ_2002_Aula_07.pdf)
+
+---
+
+</details>
+
+
+
+<details><summary>08. Testes de hipóteses (14/11) </summary>
+
+--- 
+
+Leituras obrigatórias 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Agresti 2018 caps. 6](08-testes-hipoteses/leituras/agresti-2018-cap6.pdf)
+
+Leituras optativas
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Bussab e Morettin 2010 caps. 12 e 13](08-testes-hipoteses/leituras/bussab-morettin-2010-cap12e13.pdf)
+
+Slides
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](08-testes-hipoteses//slides/MQ_2002_Aula_08.pdf)
+
+---
+
+</details>
+
