@@ -35,8 +35,13 @@ Aula em 17/out/2022
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [zip para download](material-apoio.zip)
  
+<br> 
 
+## Atividade \#4
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Perguntas](atividade/atividade04.r)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Gabarito](atividade/atividade04-respostas.r)
 
 
 
