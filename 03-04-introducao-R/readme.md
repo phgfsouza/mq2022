@@ -1,7 +1,7 @@
 
 # Aulas 03 e 04. Manipulação de dados no R
 
-Atualizado em 06/out/2022
+Atualizado em 05/nov/2022
 
 Aula em 26/set/2022 e 03/out/2022
 
@@ -42,5 +42,11 @@ Aula em 26/set/2022 e 03/out/2022
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [zip para download](material-apoio.zip)
 
+<br> 
 
+## Atividade \#3
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Perguntas](atividade/atividade03.r)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Gabarito](atividade/atividade03-respostas.r)
 
