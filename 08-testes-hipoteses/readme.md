@@ -20,8 +20,7 @@ Aula em 14/nov/2022
 
 ## Slides
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](slides/MQ_2002_Aula_08.pdf)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](slides/MQ_2022_Aula_08.pdf)
 
 <br>
 
