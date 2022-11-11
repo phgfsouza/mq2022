@@ -255,7 +255,7 @@ Leituras optativas
 
 Slides
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](08-testes-hipoteses//slides/MQ_2002_Aula_08.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](08-testes-hipoteses/slides/MQ_2002_Aula_08.pdf)
 
 ---
 
