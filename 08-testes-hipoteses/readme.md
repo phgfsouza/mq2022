@@ -1,6 +1,6 @@
 # Aula 08. Testes de hipóteses
 
-Atualizado em 05/nov/2022
+Atualizado em 11/nov/2022
 
 Aula em 14/nov/2022
 
@@ -20,7 +20,7 @@ Aula em 14/nov/2022
 
 ## Slides
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](slides/MQ_2002_Aula_08.pdf) (em breve)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](slides/MQ_2002_Aula_08.pdf)
 
 
 <br>
