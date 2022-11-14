@@ -48,5 +48,6 @@ Aula em 26/set/2022 e 03/out/2022
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Perguntas](atividade/atividade03.r)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Gabarito](atividade/atividade03-respostas.r)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Gabarito em script de R](atividade/atividade03-respostas.r)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Gabarito em PDF](atividade/atividade03-respostas.pdf)
