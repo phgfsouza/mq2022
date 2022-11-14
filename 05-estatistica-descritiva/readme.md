@@ -2,7 +2,7 @@
 
 # Aula 05. Estatísticas Descritivas no R
 
-Atualizado em 05/nov/2022
+Atualizado em 14/nov/2022
 
 Aula em 17/out/2022
 
