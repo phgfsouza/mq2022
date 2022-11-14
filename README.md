@@ -153,7 +153,7 @@ Atividade \#3
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Perguntas](03-04-introducao-R/atividade/atividade03.r)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Gabarito](03-04-introducao-R/atividade/atividade03-respostas.r)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gabarito em [script de R](03-04-introducao-R/atividade/atividade03-respostas.r) e em [PDF](03-04-introducao-R/atividade/atividade03-respostas.pdf)
 
 ---
  
@@ -188,7 +188,7 @@ Atividade \#4
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Perguntas](05-estatistica-descritiva/atividade/atividade04.r)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Gabarito](05-estatistica-descritiva/atividade/atividade04-respostas.r)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gabarito em [script de R](05-estatistica-descritiva/atividade/atividade04-respostas.r) e em [PDF](05-estatistica-descritiva/atividade/atividade04-respostas.pdf)
 
 ---
  
