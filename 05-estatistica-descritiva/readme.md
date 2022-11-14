@@ -41,7 +41,7 @@ Aula em 17/out/2022
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Perguntas](atividade/atividade04.r)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Gabarito](atividade/atividade04-respostas.r)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gabarito em [script de R](atividade/atividade04-respostas.r) e em [PDF](atividade/atividade04-respostas.pdf)
 
 
 
