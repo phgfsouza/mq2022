@@ -261,3 +261,24 @@ Slides
 
 </details>
 
+<details><summary>09. Regressão linear, Parte 1 (21/11) </summary>
+
+--- 
+
+Leituras obrigatórias 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Agresti 2018, cap. 9 a 10](09-regressao-pt1/leituras/agresti-2018-cap9e10.pdf)
+
+Leituras optativas
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Bussab e Morettin 2010, cap. 16](09-regressao-pt1/leituras/bussab-morettin-2010-cap16.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Huntington-Klein 2022, cap. 13](09-regressao-pt1/leituras/Huntington-Klein-2022-cap13.pdf)
+
+Slides
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](09-regressao-pt1/slides/MQ_2022_Aula_09.pdf)
+
+---
+
+</details>
