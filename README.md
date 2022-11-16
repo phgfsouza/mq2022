@@ -37,10 +37,10 @@ Horário: segundas-feiras, 8h30-12h30
 | -    | 31/10 | **NÃO HAVERÁ AULA**                                  | -             | Não                   |
 | 7    | 07/11 | [Inferência estatística](07-inferencia/)             | Sim           | Sim                   |
 | 8    | 14/11 | [Testes de hipóteses](08-testes-hipoteses/)          | Sim           | Não                   |
-| 9    | 21/11 | Regressao linear, parte 1                            | Sim           | Sim                   |
+| 9    | 21/11 | [Regressão linear, parte 1](09-regressao-pt1/)       | Sim           | Sim                   |
 | -    | 28/11 | **NÃO HAVERÁ AULA**                                  | -             | Não                   |
-| 10   | 05/12 | Regressão linear, parte 2                            | Sim           | Sim                   |
-| 11   | 12/12 | Regressão linear, parte 3                            | Sim           | Sim                   |
+| 10   | 05/12 | [Regressão linear, parte 2](10-regressao-pt2/)        | Sim           | Sim                   |
+| 11   | 12/12 | [Regressão linear, parte 3](11-regressao-pt3/)       | Sim           | Sim                   |
 | -    | 16/12 | **PRAZO PARA ENTREGA DO TRABALHO FINAL**             | -             | Sim                   |
  
 ---
@@ -278,6 +278,46 @@ Leituras optativas
 Slides
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](09-regressao-pt1/slides/MQ_2022_Aula_09.pdf)
+
+---
+
+</details>
+
+<details><summary>10. Regressão linear, Parte 2 (05/12) </summary>
+
+--- 
+
+Leituras obrigatórias 
+
+Em breve.
+
+Leituras optativas
+
+Em breve.
+
+Slides
+ 
+Em breve.
+
+---
+
+</details>
+
+<details><summary>11. Regressão linear, Parte 3 (12/12) </summary>
+
+--- 
+
+Leituras obrigatórias 
+
+Em breve.
+
+Leituras optativas
+
+Em breve.
+
+Slides
+ 
+Em breve.
 
 ---
 
