@@ -289,15 +289,21 @@ Slides
 
 Leituras obrigatórias 
 
-Em breve.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Agresti 2018, cap. 11 a 13](10-regressao-pt2/leituras/agresti-2018-cap11a13.pdf)
+
 
 Leituras optativas
 
-Em breve.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Agresti 2018, cap. 14](10-regressao-pt2/leituras/agresti-2018-cap14.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Bussab e Morettin 2010 cap. 16](10-regressao-pt2/leituras/bussab-morettin-2010-cap16.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Huntington-Klein 2022, cap. 13](10-regressao-pt2/leituras/huntington-klein-2022-cap13.pdf)
+
 
 Slides
  
-Em breve.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](10-regressao-pt2/slides/MQ_2022_Aula_10.pdf)
 
 ---
 
@@ -309,15 +315,23 @@ Em breve.
 
 Leituras obrigatórias 
 
-Em breve.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Agresti 2018, cap. 9 a 10](11-regressao-pt3/leituras/agresti-2018-cap9e10.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Agresti 2018, cap. 11 a 13](11-regressao-pt3/leituras/agresti-2018-cap11a13.pdf)
 
 Leituras optativas
 
-Em breve.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Agresti 2018, cap. 14](11-regressao-pt3/leituras/agresti-2018-cap14.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Bussab e Morettin 2010, cap. 16](11-regressao-pt3/leituras/bussab-morettin-2010-cap16.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Huntington-Klein 2022, cap. 13](11-regressao-pt3/leituras/Huntington-Klein-2022-cap13.pdf)
 
 Slides
  
-Em breve.
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](11-regressao-pt3/slides/MQ_2022_Aula_11.pdf)
+
 
 ---
 
