@@ -40,7 +40,7 @@ Horário: segundas-feiras, 8h30-12h30
 | 9    | 21/11 | [Regressão linear, parte 1](09-regressao-pt1/)       | Sim           | Sim                   |
 | -    | 28/11 | **NÃO HAVERÁ AULA**                                  | -             | Não                   |
 | 10   | 05/12 | [Regressão linear, parte 2](10-regressao-pt2/)        | Sim           | Sim                   |
-| 11   | 12/12 | [Regressão linear, parte 3](11-regressao-pt3/)       | Sim           | Sim                   |
+| 11   | 12/12 | [Regressão linear, parte 3](11-regressao-pt3/)       | Sim           | Não                   |
 | -    | 16/12 | **PRAZO PARA ENTREGA DO TRABALHO FINAL**             | -             | Sim                   |
  
 ---
