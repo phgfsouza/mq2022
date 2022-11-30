@@ -54,7 +54,7 @@ Horário: segundas-feiras, 8h30-12h30
 
 ## Plano de aulas
 
-<details><summary>01. Fundamentos de análises quantitativas (12/set) </summary>
+<details><summary>01. Fundamentos de análises quantitativas (12/09) </summary>
 
 ---
  
@@ -86,7 +86,7 @@ Atividade \#1
   
 </details>
 
-<details><summary>02. Introdução à causalidade (19/set) </summary>
+<details><summary>02. Introdução à causalidade (19/09) </summary>
 
 ---
  
@@ -116,7 +116,7 @@ Atividade \#2
   
 </details>
 
-<details><summary>03 e 04. Manipulação de dados no R (26/set e 03/out) </summary>
+<details><summary>03 e 04. Manipulação de dados no R (26/09 e 03/10) </summary>
 
 ---
  
@@ -160,7 +160,7 @@ Atividade \#3
 </details>
 
 
-<details><summary>05. Estatísticas descritivas no R (17/out) </summary>
+<details><summary>05. Estatísticas descritivas no R (17/10) </summary>
 
 ---
  
