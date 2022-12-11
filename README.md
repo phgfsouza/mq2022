@@ -41,7 +41,7 @@ Horário: segundas-feiras, 8h30-12h30
 | -    | 28/11 | **NÃO HAVERÁ AULA**                                  | -             | Não                   |
 | 10   | 05/12 | [Regressão linear, parte 2](10-regressao-pt2/)        | Sim           | Sim                   |
 | 11   | 12/12 | [Regressão linear, parte 3](11-regressao-pt3/)       | Sim           | Não                   |
-| -    | 16/12 | **PRAZO PARA ENTREGA DO TRABALHO FINAL**             | -             | Sim                   |
+| -    | 26/12 | **PRAZO PARA ENTREGA DO TRABALHO FINAL**             | -             | Sim                   |
  
 ---
   
@@ -328,11 +328,12 @@ Leituras optativas
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Huntington-Klein 2022, cap. 13](11-regressao-pt3/leituras/Huntington-Klein-2022-cap13.pdf)
 
 Slides
- 
- 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [pdf para download](11-regressao-pt3/slides/MQ_2022_Aula_11.pdf)
 
-
+Material de apoio (scripts, dados e afins)
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Dados da PNADC](11-regressao-pt3/dados/pnadc2021_limpa.csv)
 ---
 
 </details>
