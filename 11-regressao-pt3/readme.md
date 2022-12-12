@@ -41,8 +41,9 @@ Aula em 12/dez/2022
 Para ler arquivos ```.csv``` no R, faça o seguinte: 
 
  - Baixe o arquivo e salve em alguma pasta no seu computador: por exemplo, ```c:\mestrado\aula11\swiss.csv```
- - Diga para o R onde está o arquivo, usando o comando ```file.path```: por exemplo, ```local <- file.path('c:', 'mestrado', 'aula11', 'swiss.csv')
- - No R, carregue o pacote ```readr``` na memória e execute: ```swiss <- read_csv(local)```
+ - Diga para o R onde está o arquivo, usando o comando ```file.path```: por exemplo, ```local <- file.path('c:', 'mestrado', 'aula11', 'swiss.csv')```
+ - No R, carregue o pacote ```readr``` na memória com ```library(readr)```
+ - Importe o arquivo csv com o comando ```read_csv```: por exemplo, ```swiss <- read_csv(local)```
  
  
 <br>
