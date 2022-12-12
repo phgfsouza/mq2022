@@ -335,6 +335,8 @@ Material de apoio (scripts, dados e afins)
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Dados da PNADC](11-regressao-pt3/dados/pnadc2021_limpa.csv)
  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Dados para a Atividade #6](11-regressao-pt3/dados/swiss.csv) 
+ 
  
 ---
 
